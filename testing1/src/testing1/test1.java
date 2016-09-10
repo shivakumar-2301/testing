@@ -9,7 +9,11 @@ public class test1 {
 		System.out.println("third line edited from testing");
 		System.out.println("fourth line form eclipse");
 		System.out.println("fifth line from github");
+<<<<<<< HEAD
 		System.out.println("hi shiva from second user");
+=======
+		System.out.println("sixth line from eclipse");
+>>>>>>> branch 'master' of https://github.com/shivakumar-2301/testing.git
 	}
 
 }
